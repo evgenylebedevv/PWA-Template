@@ -1,0 +1,27 @@
+body {
+    background-color : #202020;
+    color: #ff5900;
+    font-size: 18px;
+
+}
+ a, p {
+     color: #ff5900;
+     font-size: large;
+     font-family: "Open Sans";
+     font-weight: bold;
+ }
+ .list-games {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+ }
+
+ .add-button {
+     background-color: #0cc485;
+     padding: 20px 40px 20px 40px;
+     color: white;
+     font-family: "Open Sans";
+     font-weight: bold;
+     border-radius: 7px;
+ }

@@ -1,0 +1,15 @@
+{
+  "background_color": "black",
+  "description": "Игры на сайте siteprovider.ru",
+  "display" : "standalone",
+  "icons": [
+    {
+      "src": "application.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "siteprovider games",
+  "short_name": "siteprovider games",
+  "start_url": "https://siteprovider.ru/dev/pwa_2/"
+}
